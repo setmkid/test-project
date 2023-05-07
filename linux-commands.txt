@@ -1,0 +1,25 @@
+pwd
+cd
+ls
+mkdir
+rmdir
+rm
+mv
+cp
+nano
+touch
+clear
+find
+sort
+grep
+apt-get
+ping
+date
+echo
+man
+date
+head
+tail
+df
+du
+git status
